@@ -2,7 +2,6 @@ body{
     background-color: darksalmon;
 }
 
-/
 ul { 
     list-style-type: none;
     margin: 0;
@@ -24,15 +23,10 @@ ul {
   }
   
   li a:hover {
-    background-color: rgba(76, 76, 74, 0.859);
+    background-color: rgba(44, 44, 43, 0.859);
   }
-  </style>
-  </head>
-  <body>
-  
-  <ul>
-    <li><a class="active" href="#home">Home</a></li>
-    <li><a href="#news">News</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#about">About</a></li>
+
+  li {
+    border-right:1px solid#bbb; /*dit zorg ervoor dat er in het menu, lijntjes zitten zodat het duidelijk is waar je op de andere pagina kan klikken om naar de volgende te gaan*/
+  } 
   </ul> /* Dit is het einde van mijn code van mijn horizontale menu*/
