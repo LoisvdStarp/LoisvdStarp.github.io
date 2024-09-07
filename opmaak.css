@@ -1,5 +1,5 @@
 body{
-    background-color: darksalmon;
+    background-color: #6a6f4c;
 }
 
 ul { 
@@ -7,7 +7,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #bf8f67; /*Dit is de hoofdkleur van het menu, de achtergrond*/
+    background-color: #806044; /*Dit is de hoofdkleur van het menu, de achtergrond*/
   }
   
   li {
@@ -19,7 +19,7 @@ ul {
     color: white;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
+    text-decoration: none; /*Dit bepaald hoe de tekst in het menu erin zit.*/
   }
   
   li a:hover {
