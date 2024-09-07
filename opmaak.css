@@ -7,7 +7,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #f3ead6; /*Dit is de hoofdkleur van het menu, de achtergrond*/
+    background-color: #9CB2A5; /*Dit is de hoofdkleur van het menu, de achtergrond*/
   }
   
   li {
@@ -38,5 +38,6 @@ ul {
     top: 0;
     width:100%;
   } /* Deze code zorgt ervoor dat het menu mee gaan als je gaat scrollen op de website*/
+
 
 
