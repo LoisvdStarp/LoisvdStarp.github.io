@@ -7,11 +7,11 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #f5e8e8;
+    background-color: #bf8f67; /*Dit is de hoofdkleur van het menu, de achtergrond*/
   }
   
   li {
-    float: left;
+    float: left; 
   }
   
   li a {
@@ -23,10 +23,20 @@ ul {
   }
   
   li a:hover {
-    background-color: rgba(44, 44, 43, 0.859);
+    background-color: rgba(44, 44, 43, 0.859); /*als je op het menu klikt kan je zien welke is geselecteerd*/
   }
 
   li {
     border-right:1px solid#bbb; /*dit zorg ervoor dat er in het menu, lijntjes zitten zodat het duidelijk is waar je op de andere pagina kan klikken om naar de volgende te gaan*/
   } 
+
+
   </ul> /* Dit is het einde van mijn code van mijn horizontale menu*/
+  
+  ul {
+    position:fixed;
+    top: 0;
+    width:100%;
+  } /* Deze code zorgt ervoor dat het menu mee gaan als je gaat scrollen op de website*/
+
+
