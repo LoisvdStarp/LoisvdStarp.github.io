@@ -17,13 +17,13 @@ ul {
   li a {
     display: block;
     color: #a66d45;
-    text-align: center;
+    text-align: center; /*Dit zorgt ervoor dat de tekst in het midden van de knop zit*/
     padding: 14px 16px;
     text-decoration: none; /*Dit bepaald hoe de tekst in het menu eruit ziet.*/
   }
   
   li a:hover {
-    background-color: rgba(44, 44, 43, 0.859); /*als je op het menu klikt kan je zien welke is geselecteerd*/
+    background-color: rgba(89, 89, 88, 0.859); /*als je op het menu klikt kan je zien welke is geselecteerd*/
   }
 
   li {
