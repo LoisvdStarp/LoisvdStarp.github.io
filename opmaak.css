@@ -12,7 +12,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #9CB2A5; /*Dit is de hoofdkleur van het menu, de achtergrond*/
+    background-color: #E5E0D8; /*Dit is de hoofdkleur van het menu, de achtergrond*/
   }
   
   li {
@@ -28,13 +28,12 @@ ul {
   }
   
   li a:hover {
-    background-color: #fd9584; /*als je op het menu klikt kan je zien welke is geselecteerd*/
+    background-color: #D0a77b; /*als je op het menu klikt kan je zien welke is geselecteerd*/
   }
 
   li {
     border-right:1px solid#bbb; /*dit zorg ervoor dat er in het menu, lijntjes zitten zodat het duidelijk is waar je op de andere pagina kan klikken om naar de volgende te gaan*/
   } 
-
 
   </ul> /* Dit is het einde van mijn code van mijn horizontale menu*/
   
