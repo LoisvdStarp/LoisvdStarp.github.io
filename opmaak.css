@@ -13,7 +13,7 @@ ul {
     margin: 0; /*Dit geeft aan hoeveel ruimte er is tussen de tekst en de zijkanten van het scherm*/
     padding: 0; /*Dit geeft aan hoeveel ruimte er om de tekst heen zit*/
     overflow: hidden;
-    background-color: #E5E0D8; /*Dit is de hoofdkleur van het menu, de achtergrond*/
+    background-color: #cf3e4d; /*Dit is de hoofdkleur van het menu, de achtergrond*/
   }
   
   li {
@@ -29,7 +29,7 @@ ul {
   }
   
   li a:hover {
-    background-color: #D0a77b; /*als je op het menu klikt kan je zien welke is geselecteerd*/
+    background-color: #D1d175; /*als je op het menu klikt kan je zien welke is geselecteerd*/
   }
 
   li {
