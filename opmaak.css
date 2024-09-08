@@ -4,7 +4,7 @@ body{
 
 #body1 {
     background-image: url("panter.jpeg");
-    background-color: #fd9584;
+    background-repeat: repeat-y;
 }
 
 ul { 
