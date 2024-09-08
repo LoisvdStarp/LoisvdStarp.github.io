@@ -5,12 +5,13 @@ body{
 #body1 {
     background-image: url("bloemen.jpeg");
     background-repeat: repeat-y;
+    max-width: 100%; /*Dit zorgt ervoor dat mijn achergrond wel het hele scherm bedekt*/
 }
 
 ul { 
     list-style-type: none; /*Dit zorgt ervoor dat de lijst in het menu geen punten hebben ervoor*/
-    margin: 0;
-    padding: 0;
+    margin: 0; /*Dit geeft aan hoeveel ruimte er is tussen de tekst en de zijkanten van het scherm*/
+    padding: 0; /*Dit geeft aan hoeveel ruimte er om de tekst heen zit*/
     overflow: hidden;
     background-color: #E5E0D8; /*Dit is de hoofdkleur van het menu, de achtergrond*/
   }
