@@ -5,7 +5,7 @@ body{
 
 #body1 {
     background-image: url("bloemen6.jpeg");
-    background-position: left;
+    background-size: cover;
 }
 
 ul { 
