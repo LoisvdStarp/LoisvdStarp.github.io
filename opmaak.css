@@ -6,12 +6,7 @@ body{
 #body1 {
     background-image: url("bloemen2.jpeg");
     background-repeat: repeat-x;
-    max-width: 100%;
     background-size: cover;
-}
-
-#body1 {
-  image-orientation: flip;
 }
 
 ul { 
