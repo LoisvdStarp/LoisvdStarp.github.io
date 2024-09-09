@@ -7,7 +7,6 @@ body{
     background-image: url("bloemen.jpeg");
     background-repeat: repeat-x;
     max-width: 100%;
-    float: right;
 }
 
 ul { 
