@@ -5,7 +5,7 @@ body{
 
 #body1 {
     background-image: url("bloemen.jpeg");
-    background-repeat: repeat-y;
+    background-repeat: repeat-x;
     max-width: 100%;
 }
 
