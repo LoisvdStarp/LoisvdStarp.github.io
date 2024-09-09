@@ -2,10 +2,11 @@ body{
     background-color: #f5d4b0;
 }
 
+
 #body1 {
     background-image: url("bloemen.jpeg");
     background-repeat: repeat-y;
-    max-width: 100%; /*Dit zorgt ervoor dat mijn achergrond wel het hele scherm bedekt*/
+    max-width: 100%;
 }
 
 ul { 
