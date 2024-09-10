@@ -6,10 +6,11 @@ body{
 #body1 {
     background-image: url("bloemen6.jpeg"); /* Hiermee maak ik een afbeelding mijn achtergrond, alleen op body1*/
     background-size: cover; /* Dit zorgt ervoor dat de afbeelding het hele scherm bedekt, en niet een deel omdat de afbeelding te klein is*/
-      img{
+    }
+    img{
      transform: scaleX(-1); /*Hierdoor wordt mijn afbeelding gespiegels. Daardoor komen de bloemen aan de andere kant van de pagina, dus de rechterhoek. Dit vond ik mooier, ook als ik tekst ga toevoegen*/
       }
-    }
+
 
 ul { 
     list-style-type: none; /*Dit zorgt ervoor dat de lijst in het menu geen punten hebben ervoor*/
