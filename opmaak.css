@@ -50,7 +50,7 @@ ul {
     background-color: #ed4968; /*Dit is de achtergrondkleur van mijn tekst*/
     width: 40%;
     padding: 20px; /*Dit zorgt voor de rand om de tekst in het element, hoe hoger de px, hoe meer ruimte eromheen komt*/
-    margin: 15px;
+    margin: 20px;
     font-size: 18px;
     font-family: 'Courier New', Courier, monospace;
   }
