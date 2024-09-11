@@ -1,5 +1,5 @@
 body{
-    background-color: #fda170; /*Dit is de achtergrondkleur voor alle pagina's, tenzij ik specefiek een andere kleur kies voor de pagina*/
+    background-color: #fbbc99; /*Dit is de achtergrondkleur voor alle pagina's, tenzij ik specefiek een andere kleur kies voor de pagina*/
 }
 
 
@@ -36,7 +36,6 @@ ul {
   li {
     border-right:1px solid#bbb; /*dit zorg ervoor dat er in het menu, lijntjes zitten zodat het duidelijk is waar je op de andere pagina kan klikken om naar de volgende te gaan*/
   } 
-
   </ul> /* Dit is het einde van mijn code van mijn horizontale menu*/
   
   ul {
@@ -58,6 +57,7 @@ ul {
   h1{
     font-family: Georgia, serif;
     margin:15px;
+    color: #ed7b23;
   }
 
 
