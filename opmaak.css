@@ -14,7 +14,7 @@ ul {
     margin: 0; /*Dit geeft aan hoeveel ruimte er is tussen de tekst en de zijkanten van het scherm*/
     padding: 0; /*Dit geeft aan hoeveel ruimte er om de tekst heen zit*/
     overflow: hidden;
-    background-color: #e25261; /*Dit is de hoofdkleur van het menu, de achtergrond*/
+    background-color: #ed4968; /*Dit is de hoofdkleur van het menu, de achtergrond*/
   }
   
   li {
@@ -44,6 +44,12 @@ ul {
     top: 0;
     width:100%;
   } /* Deze code zorgt ervoor dat het menu mee gaan als je gaat scrollen op de website*/
+
+  #p1 {
+    border-radius: 25px;
+    background-color: #ed4968;
+    padding: 20px;
+  }
 
 
 
