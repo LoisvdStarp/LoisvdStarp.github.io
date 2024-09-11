@@ -51,7 +51,7 @@ ul {
     width: 40%;
     padding: 20px; /*Dit zorgt voor de rand om de tekst in het element, hoe hoger de px, hoe meer ruimte eromheen komt*/
     margin: 20px;
-    font-size: 18px;
+    font-size: 16px;
     font-family: 'Courier New', Courier, monospace;
   }
 
