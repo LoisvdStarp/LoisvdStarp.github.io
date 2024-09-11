@@ -48,7 +48,7 @@ ul {
   #p1 {
     border-radius: 25px; /* Dit maakt de hoeken van mijn tekst minder puntig*/
     background-color: #ed4968; /*Dit is de achtergrondkleur van mijn tekst*/
-    width: 50%;
+    width: 40%;
     padding: 20px; /*Dit zorgt voor de rand om de tekst in het element, hoe hoger de px, hoe meer ruimte eromheen komt*/
   }
 
