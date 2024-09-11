@@ -46,9 +46,9 @@ ul {
   } /* Deze code zorgt ervoor dat het menu mee gaan als je gaat scrollen op de website*/
 
   #p1 {
-    border-radius: 25px;
-    background-color: #ed4968;
-    padding: 20px;
+    border-radius: 25px; /* Dit maakt de hoeken van mijn tekst minder puntig*/
+    background-color: #ed4968; /*Dit is de achtergrondkleur van mijn tekst*/
+    padding: 20px; /*Dit zorgt voor de rand om de tekst in het element, hoe hoger de px, hoe meer ruimte eromheen komt*/
   }
 
 
