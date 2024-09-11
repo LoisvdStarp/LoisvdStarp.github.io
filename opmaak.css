@@ -50,6 +50,7 @@ ul {
     background-color: #ed4968; /*Dit is de achtergrondkleur van mijn tekst*/
     width: 40%;
     padding: 20px; /*Dit zorgt voor de rand om de tekst in het element, hoe hoger de px, hoe meer ruimte eromheen komt*/
+    margin: 10px;
     font-size: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
