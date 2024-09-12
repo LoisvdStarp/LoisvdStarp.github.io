@@ -23,7 +23,7 @@ ul {
   
   li a {
     display: block;
-    color: #482e1d;
+    color: cornsilk;
     text-align: center; /*Dit zorgt ervoor dat de tekst in het midden van de knop zit*/
     padding: 14px 16px;
     text-decoration: none; /*Dit bepaald hoe de tekst in het menu eruit ziet.*/
