@@ -44,7 +44,7 @@ ul {
     width:100%;
   } /* Deze code zorgt ervoor dat het menu mee gaan als je gaat scrollen op de website*/
 
-  #p1 {
+  p {
     border-radius: 25px; /* Dit maakt de hoeken van mijn tekst minder puntig*/
     background-color: #ed4968; /*Dit is de achtergrondkleur van mijn tekst*/
     width: 40%;
@@ -52,6 +52,7 @@ ul {
     margin: 20px;
     font-size: 16px;
     font-family: 'Courier New', Courier, monospace;
+    color: cornsilk;
   }
 
   h1{
