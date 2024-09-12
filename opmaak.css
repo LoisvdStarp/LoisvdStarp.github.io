@@ -58,8 +58,9 @@ ul {
   h1{
     font-family: Georgia, serif;
     margin:25px;
-    color: #ed7b23;
+    color: #f8f2ec;
     font size: 30px;
+    text-shadow: 1px 2px 4px red, 0 0 25px blue, 0 0 5px orange;
   }
 
 
