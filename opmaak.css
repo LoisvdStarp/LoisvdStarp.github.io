@@ -47,12 +47,19 @@ ul {
   p {
     border-radius: 25px; /* Dit rond de hoeken van mijn element af*/
     background-color: #ed4968; /*Dit is de achtergrondkleur van mijn tekst*/
-    width: 40%; /*op deze manier gaat het door tot 40% van het scherm, en dus niet het hele scherm*/
     padding: 20px; /*Dit zorgt voor de rand om de tekst in het element, hoe hoger de px, hoe meer ruimte eromheen komt*/
     margin: 20px;
     font-size: 16px; /* Dit zorgt voor de grootte van mijn tekst*/
     font-family: 'Courier New', Courier, monospace; /* Dit zorgt voor een andere lettertype*/
     color: cornsilk; /*Dit is de kleur van mijn tekst*/
+  }
+
+  #p1 {
+    width: 40%;
+  }
+
+  #p2{
+    width: 80%;
   }
 
   h1{
