@@ -35,7 +35,6 @@
   li {
     border-right:1px solid#bbb; /*dit zorg ervoor dat er in het menu, lijntjes zitten zodat het duidelijk is waar je op de andere pagina kan klikken om naar de volgende te gaan*/
   } 
-  </ul> /* Dit is het einde van mijn code van mijn horizontale menu*/
   
   ul {
     position:fixed;
