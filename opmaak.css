@@ -55,7 +55,7 @@ ul {
   }
 
   #p1 {
-    width: 40%;
+    width: 40%; /*Dit laat mijn eerste paragraaf maar 40% van het scherm bedekken*/
   }
 
   #p2{
@@ -73,7 +73,7 @@ ul {
 
 
 #body2{
-  float
+  float: right;
 }
 
 
