@@ -1,15 +1,14 @@
-body{
+  body {
     background-color: #fbbc99; /*Dit is de achtergrondkleur voor alle pagina's, tenzij ik specefiek een andere kleur kies voor de pagina*/
-}
+  }
 
-
-#body1 {
+  #body1 {
     background-image: url("bloemen7.jpeg"); /* Hiermee maak ik een afbeelding mijn achtergrond, alleen op body1*/
     background-size: cover; /* Dit zorgt ervoor dat de afbeelding het hele scherm bedekt, en niet een deel omdat de afbeelding te klein is*/
     background-position-x: right;
-    }
+  }
 
-ul { 
+  ul { 
     list-style-type: none; /*Dit zorgt ervoor dat de lijst in het menu geen punten hebben ervoor*/
     margin: 0; /*Dit geeft aan hoeveel ruimte er is tussen de tekst en de zijkanten van het scherm*/
     padding: 0; /*Dit geeft aan hoeveel ruimte er om de tekst heen zit*/
@@ -58,11 +57,11 @@ ul {
     width: 40%; /*Dit laat mijn eerste paragraaf maar 40% van het scherm bedekken*/
   }
 
-  #p2{
+  #p2 {
     width: 80%;
   }
 
-  h1{
+  h1 {
     font-family: Georgia, serif; /* Ik heb een andere lettertype gekozen voor mijn tekst*/
     margin:40px; /*Dit is de ruimte die zit tussen de elementen en de tekst, hoe hoger de px, hoe groter de afstand*/
     color: #f8f2ec;
@@ -72,8 +71,8 @@ ul {
   }
 
 
-#spel1, #spel2{
- float: right;
+  #spel1, #spel2{
+ float: right; /*Hierdoor komen de 2 spellen die ik elk een eigen id heb gegeven, aan de rechterkant van het scherm terecht.*/
 }
 
 
