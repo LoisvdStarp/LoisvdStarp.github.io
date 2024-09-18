@@ -44,7 +44,7 @@
   } /* Deze code zorgt ervoor dat het menu mee gaan als je gaat scrollen op de website*/
 
   p {
-    border-radius: 25px; /* Dit rond de hoeken van mijn element af*/
+    border-radius: 20px; /* Dit rond de hoeken van mijn element af*/
     background-color: #ed4968; /*Dit is de achtergrondkleur van mijn tekst*/
     padding: 20px; /*Dit zorgt voor de rand om de tekst in het element, hoe hoger de px, hoe meer ruimte eromheen komt*/
     margin: 20px;
