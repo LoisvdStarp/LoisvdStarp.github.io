@@ -48,7 +48,7 @@
     background-color: #ed4968; /*Dit is de achtergrondkleur van mijn tekst*/
     padding: 20px; /*Dit zorgt voor de rand om de tekst in het element, hoe hoger de px, hoe meer ruimte eromheen komt*/
     margin: 20px;
-    
+
     font-family: 'Courier New', Courier, monospace; /* Dit zorgt voor een andere lettertype*/
     color: cornsilk; /*Dit is de kleur van mijn tekst*/
   }
@@ -72,6 +72,10 @@
     (dus bijvoorbeeld 'over mij'), ik heb uitgeprobeerd met de kleuren en vond deze combinatie het beste met mijn pagina*/
   }
 
+  #spel1, #spel2{
+    max-width: 50%;
+  }
+ 
   #spel2 {
   float: right; /*Hierdoor komen de 2 spellen die ik elk een eigen id heb gegeven, aan de rechterkant van het scherm terecht.*/
 }
