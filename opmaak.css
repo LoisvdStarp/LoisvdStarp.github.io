@@ -48,17 +48,19 @@
     background-color: #ed4968; /*Dit is de achtergrondkleur van mijn tekst*/
     padding: 20px; /*Dit zorgt voor de rand om de tekst in het element, hoe hoger de px, hoe meer ruimte eromheen komt*/
     margin: 20px;
-    font-size: 16px; /* Dit zorgt voor de grootte van mijn tekst*/
+    
     font-family: 'Courier New', Courier, monospace; /* Dit zorgt voor een andere lettertype*/
     color: cornsilk; /*Dit is de kleur van mijn tekst*/
   }
 
   #p1 {
     width: 40%; /*Dit laat mijn eerste paragraaf maar 40% van het scherm bedekken*/
+    font-size: 16px; /* Dit zorgt voor de grootte van mijn tekst*/
   }
 
   #p2 {
     width: 80%;
+    font-size: 16px; /* Dit zorgt voor de grootte van mijn tekst*/
   }
 
   h1 {
@@ -75,6 +77,5 @@
 }
 
 .class1{
-  width: 30%;
   font-size: 15px;
 }
