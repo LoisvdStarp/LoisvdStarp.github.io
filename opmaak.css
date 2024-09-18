@@ -1,5 +1,5 @@
   body {
-    background-color: #fbbc99; /*Dit is de achtergrondkleur voor alle pagina's, tenzij ik specefiek een andere kleur kies voor de pagina*/
+    background-color: #f8c4a8; /*Dit is de achtergrondkleur voor alle pagina's, tenzij ik specefiek een andere kleur kies voor de pagina*/
   }
 
   #body1 {
@@ -70,9 +70,6 @@
     (dus bijvoorbeeld 'over mij'), ik heb uitgeprobeerd met de kleuren en vond deze combinatie het beste met mijn pagina*/
   }
 
-  #spel1, #spel2{
+  #spel1,#spel2 {
   float: right; /*Hierdoor komen de 2 spellen die ik elk een eigen id heb gegeven, aan de rechterkant van het scherm terecht.*/
-  width: 47%;
 }
-
-
