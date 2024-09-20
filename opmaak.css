@@ -48,7 +48,6 @@
     background-color: #ed4968; /*Dit is de achtergrondkleur van mijn tekst*/
     padding: 20px; /*Dit zorgt voor de rand om de tekst in het element, hoe hoger de px, hoe meer ruimte eromheen komt*/
     margin: 20px;
-
     font-family: 'Courier New', Courier, monospace; /* Dit zorgt voor een andere lettertype*/
     color: cornsilk; /*Dit is de kleur van mijn tekst*/
   }
