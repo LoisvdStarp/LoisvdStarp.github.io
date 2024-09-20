@@ -87,3 +87,9 @@
 .class1{
   font-size: 15px;
 }
+
+.button {
+  background-color: #f8f2ec;
+  padding: 15px, 30px;
+  text-align: center;
+}
