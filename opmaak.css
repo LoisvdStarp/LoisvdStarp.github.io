@@ -63,6 +63,10 @@
     font-size: 16px; /* Dit zorgt voor de grootte van mijn tekst*/
   }
 
+  #p3 {
+    width: 45%;
+  }
+
   h1 {
     font-family: Georgia, serif; /* Ik heb een andere lettertype gekozen voor mijn tekst*/
     margin:40px; /*Dit is de ruimte die zit tussen de elementen en de tekst, hoe hoger de px, hoe groter de afstand*/
