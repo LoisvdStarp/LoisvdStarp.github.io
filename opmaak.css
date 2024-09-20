@@ -37,11 +37,11 @@
   } 
   </ul>
   
-  ul {
+  /*ul {
     position:fixed;
     top: 0;
     width:100%;
-  } /* Deze code zorgt ervoor dat het menu mee gaan als je gaat scrollen op de website*/
+  } Deze code zorgt ervoor dat het menu mee gaan als je gaat scrollen op de website*/
 
   p {
     border-radius: 15px; /* Dit rond de hoeken van mijn element af*/
