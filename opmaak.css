@@ -39,7 +39,7 @@
   
   ul {
     position:fixed;
-    top: 0;
+   /* top: 0;*/
     width:100%;
   } /*Deze code zorgt ervoor dat het menu mee gaan als je gaat scrollen op de website*/
 
