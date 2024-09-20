@@ -35,7 +35,7 @@
   li {
     border-right:1px solid#bbb; /*dit zorg ervoor dat er in het menu, lijntjes zitten zodat het duidelijk is waar je op de andere pagina kan klikken om naar de volgende te gaan*/
   } 
-  </ul>
+  /*</ul>*/
   
   ul {
     position:fixed;
@@ -92,4 +92,7 @@
   background-color: #f8f2ec;
   padding: 15px, 30px;
   text-align: center;
+  display: inline-block;
+  list-style-type: none;
+
 }
