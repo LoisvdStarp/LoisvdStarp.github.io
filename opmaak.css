@@ -93,6 +93,7 @@
   text-align: center;
   display: inline-block;
   list-style-type: none;
+  margin: 15px;
 }
 
 .button:hover{
