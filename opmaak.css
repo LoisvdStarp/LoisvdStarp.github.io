@@ -87,7 +87,7 @@
   font-size: 15px;
 }
 
-/*.button {
+.button {
   background-color: #f8f2ec;
   padding: 20px;
   text-align: center;
@@ -98,6 +98,6 @@
 .button:hover{
   background-color: #a7c268;
   float: right;
-  list-style-type: none;
-  text-decoration: none;
-}*/
+  /*list-style-type: none;
+  text-decoration: none;*/
+}
