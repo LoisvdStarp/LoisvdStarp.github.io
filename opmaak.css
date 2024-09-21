@@ -75,6 +75,13 @@
     (dus bijvoorbeeld 'over mij'), ik heb uitgeprobeerd met de kleuren en vond deze combinatie het beste met mijn pagina*/
   }
 
+  h2{
+    font-family: Georgia, serif;
+    margin-right: 40px;
+    color: #f8f2ec;
+    text-shadow: 1px 2px 4px red, 0 0 35px green, 0 0 5px orange;
+  }
+
   #spel1, #spel2{
     max-width: 50%;
   }
