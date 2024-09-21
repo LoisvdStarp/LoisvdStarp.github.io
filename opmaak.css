@@ -78,8 +78,8 @@
   h2{
     font-family: Georgia, serif;
     margin-left: 40px;
-    color: #a7c268;
-    text-shadow: 1px 2px 4px orange, 0 0 35px red, 0 0 5px green;
+    color: cornsilk;
+    text-shadow: 1px 2px 4px #ffa500, 0 0 35px #ff0000, 0 0 5px #04ba04;
   }
 
   #spel1, #spel2{
