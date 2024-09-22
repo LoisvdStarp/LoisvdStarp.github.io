@@ -98,9 +98,9 @@
   background-color: #f8f2ec;
   padding: 20px;
   text-align: center;
-  display: inline-block;
   list-style-type: none;
-  margin: 15px;
+  margin: 20px;
+  float: right;
 }
 
 .button:hover{
