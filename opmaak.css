@@ -114,3 +114,9 @@
   font-size: 13px;
   border-radius: 0px;
 }
+
+#afbeeldingkleurmodellen{
+  width: 40%;
+  float: right;
+  margin: 20px;
+}
