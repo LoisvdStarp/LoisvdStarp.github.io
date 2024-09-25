@@ -1,12 +1,12 @@
   body {
     background-color: #ffdfba; /*Dit is de achtergrondkleur voor alle pagina's, tenzij ik specefiek een andere kleur kies voor de pagina*/
-    background-image: linear-gradient(to bottom left, #b2c782,#f8e5d2, #f9f5f1);
+    background-image: linear-gradient(to bottom left, #b2c782,#f8e5d2, #f9f5f1); /* Hiermee laat ik de groene kleur overlopen naar de andere kant van het scherm naar beige. Ik heb 2 keer beige gedaan, omdat ik vond dat er teveel groen was, en er moest meer beige komen. (Ik heb dat dus express gedaan)*/
   }
 
   #body1 {
     background-image: url("afbeeldingen/bloemen7.jpeg"); /* Hiermee maak ik een afbeelding mijn achtergrond, alleen op body1*/
     background-size: cover; /* Dit zorgt ervoor dat de afbeelding het hele scherm bedekt, en niet een deel omdat de afbeelding te klein is*/
-    background-position-x: right;
+   /* background-position-x: right; */
   }
 
   ul { 
@@ -36,12 +36,6 @@
   li {
     border-right:1px solid#bbb; /*dit zorg ervoor dat er in het menu, lijntjes zitten zodat het duidelijk is waar je op de andere pagina kan klikken om naar de volgende te gaan*/
   } 
-  
-  /*ul {
-    position:fixed;
-    top: 0;
-    width:100%;
-  } Deze code zorgt ervoor dat het menu mee gaan als je gaat scrollen op de website*/
 
   p {
     border-radius: 15px; /* Dit rond de hoeken van mijn element af*/
