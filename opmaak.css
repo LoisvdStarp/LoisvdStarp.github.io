@@ -123,3 +123,9 @@
   margin: 20px;
   display: inline;
 }
+
+#afbeeldingresolutie{
+  width: 50%;
+  float: right;
+  margin: 20px;
+}
