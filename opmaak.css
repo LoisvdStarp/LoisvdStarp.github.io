@@ -106,7 +106,5 @@
 
 .button:hover{
   background-color: #a7c268;
-  float: right;
-  /* list-style-type: none;
-  text-decoration: none;*/
+ /* float: right;*/
 }
