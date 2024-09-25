@@ -114,10 +114,12 @@
   width: 40%;
   float: right;
   margin: 20px;
+  display: inline;
 }
 
 #afbeeldingkleurmodellen{
   width: 50%;
   float: right;
   margin: 20px;
+  display: inline;
 }
