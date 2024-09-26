@@ -69,8 +69,8 @@
   }*/
 
   #tekstvector{
-    float: right;
-    width:57%;
+    float: left;
+    width: 50%;
   }
 
   h1 {
@@ -149,6 +149,6 @@
 
 #afbeeldingbitmap{
   width: 40%;
-  float:left;
+  float:right;
   display: inline;
 }
