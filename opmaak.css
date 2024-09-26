@@ -135,7 +135,7 @@
   width: 50%;
   float: right;
   /*margin: 20px;*/
-  display: inline;
+  display: inline-block;
 }
 
 #afbeeldingresolutie{
