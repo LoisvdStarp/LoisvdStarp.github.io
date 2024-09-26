@@ -147,6 +147,7 @@
 
 #afbeeldingbitmap{
   width: 40%;
+  height: 150px;
   float:right;
   display: inline;
 }
