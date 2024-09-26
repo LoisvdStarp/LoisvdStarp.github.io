@@ -124,9 +124,7 @@
 
 #afbeeldingbinairtellen{
   width: 40%;
-  float: right;
-  margin-bottom: 150px;
- /* display: block;*/
+ /* float: left;*/
 }
 
 #afbeeldingkleurmodellen{
