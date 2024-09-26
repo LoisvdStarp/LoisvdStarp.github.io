@@ -18,14 +18,14 @@
   }
   
   li {
-    float: left; 
+    float: right; /*Hierdoor komt mijn tekst van mijn menu aan de linkerkant van het scherm*/
   }
   
   li a {
-    display: block;
-    color: cornsilk;
+    display: block;/*Dit zorgt dat er geen andere elementen naast mijn menu komt*/
+    color: cornsilk; /*Dit zorgt voor de kleur van mijn tekst die in mijn menu zit*/
     text-align: center; /*Dit zorgt ervoor dat de tekst in het midden van de knop zit*/
-    padding: 14px 16px;
+    padding: 14px 16px; /*Dit bepaald hoeveel ruimte er om de tekst zit, maar wel nog in het element*/
     text-decoration: none; /*Dit bepaald hoe de tekst in het menu eruit ziet.*/
   }
   
