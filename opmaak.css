@@ -56,6 +56,7 @@
     font-size: 16px; /* Dit zorgt voor de grootte van mijn tekst*/
   }
 
+  
   #tekstkleurmodellen{
     margin-left: 20px;
     width: 60%;
@@ -93,6 +94,7 @@
 .class1{
   font-size: 15px;
   margin: 20px;
+  display: block;
 }
 
 .button {
