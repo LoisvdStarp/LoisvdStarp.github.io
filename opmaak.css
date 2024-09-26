@@ -64,7 +64,7 @@
   #tekstkleurmodellen{
     float: right;
     width: 65%;
-    display: block;
+    display: inline;
     margin: 20px;
   }
 
