@@ -61,14 +61,14 @@
     margin: 20px;
   }
 
-  #p.kleurmodellen{
+  #tekstkleurmodellen{
     float: right;
     width: 65%;
     display: block;
     margin: 20px;
   }
 
-  #p.vector{
+  #tekstvector{
     float: right;
     width:55%;
   }
