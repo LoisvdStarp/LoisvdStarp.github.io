@@ -61,12 +61,12 @@
     margin: 20px;
   }
 
-  #tekstkleurmodellen{
+  /*#tekstkleurmodellen{
     float: right;
     width: 55%;
     display: inline;
-    /*margin: 20px;*/
-  }
+    margin: 20px;
+  }*/
 
   #tekstvector{
     float: right;
