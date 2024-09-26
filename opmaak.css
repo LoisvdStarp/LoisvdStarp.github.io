@@ -58,6 +58,8 @@
 
   #tekstkleurmodellen{
     margin-left: 20px;
+    float: right;
+    width: 55%;
   }
 
   #tekstvector{
