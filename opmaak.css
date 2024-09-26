@@ -12,7 +12,7 @@
     list-style-type: none; /*Dit zorgt ervoor dat de lijst in het menu geen punten hebben ervoor*/
     margin: 0; /*Dit geeft aan hoeveel ruimte er is tussen de tekst en de zijkanten van het scherm*/
     padding: 0; /*Dit geeft aan hoeveel ruimte er om de tekst heen zit*/
-    /*overflow: hidden;*/
+    overflow: hidden;
     background-color: #ed4968; /*Dit is de hoofdkleur van het menu, de achtergrond*/
   }
   
