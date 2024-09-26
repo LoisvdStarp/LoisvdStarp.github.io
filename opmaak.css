@@ -64,6 +64,7 @@
   #p.kleurmodellen{
     float: right;
     width: 65%;
+    display: block;
   }
 
   h1 {
