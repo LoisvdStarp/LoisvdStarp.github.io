@@ -25,7 +25,7 @@
     color: cornsilk; /*Dit zorgt voor de kleur van mijn tekst die in mijn menu zit*/
     text-align: center; /*Dit zorgt ervoor dat de tekst in het midden van de knop zit*/
     padding: 14px 16px; /*Dit bepaald hoeveel ruimte er om de tekst zit, maar wel nog in het element*/
-    text-decoration: none; /*Dit bepaald hoe de tekst in het menu eruit ziet.*/
+    /*text-decoration: none; /*Dit bepaald hoe de tekst in het menu eruit ziet.*/
   }
   
   li a:hover {
