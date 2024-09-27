@@ -70,7 +70,7 @@
   }
 
   #tekstkleurmodellen2{
-    
+    float:right;
   }
 
   #resolutieh2{
@@ -111,7 +111,6 @@
   background-color: #ed4968; /*Hoofdkleur van mijn knop*/
   padding: 20px;
   text-align: center; /*Tekst komt in het midden van de knop*/
- /* list-style-type: none; */
   margin: 15px;
   float: right;
   text-decoration: none; /*Dit zorgt ervoor dat er geen streep komt onder mijn tekst in mijn knop*/
@@ -144,7 +143,7 @@
 
 #afbeeldingresolutie{
   width: 35%;
-  float: right;
+  float: left;
 }
 
 #afbeeldingbitmap{
