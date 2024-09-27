@@ -71,6 +71,7 @@
 
   #tekstkleurmodellen2{
     float:right;
+    display: inline;
   }
 
   #resolutieh2{
