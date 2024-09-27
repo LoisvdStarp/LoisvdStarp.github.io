@@ -72,12 +72,10 @@
   #tekstkleurmodellen2{
     margin-left: 20px;
     width: 55%;
-   /* float: right; /*tekst komt aan de rechter kant van de pagina*/
   }
 
   #resolutieh2{
     margin-bottom: 20px;
-    margin: 40px;
   }
 
   #tekstvector{
@@ -149,7 +147,7 @@
   width: 35%;
   float: left;
   margin-left: 30px;
-  margin-right: 30px;
+  margin-top: 40px;
 }
 
 #afbeeldingbitmap{
