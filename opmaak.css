@@ -117,7 +117,7 @@
 }
 
 .button:hover{
-  background-color: #a7c268;
+  background-color: #a7c268; /*Als ik over mijn knop heen ga, wordt het deze groene kleur.*/
 }
 
 .footer{
