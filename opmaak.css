@@ -1,7 +1,6 @@
   body {
     background-color: #ffdfba; /*Dit is de achtergrondkleur voor alle pagina's, tenzij ik specefiek een andere kleur kies voor de pagina*/
     background-image: linear-gradient(to bottom left, #b2c782,#f8e5d2, #f9f5f1); /* Hiermee laat ik de groene kleur overlopen naar de andere kant van het scherm naar beige. Ik heb 2 keer beige gedaan, omdat ik vond dat er teveel groen was, en er moest meer beige komen. (Ik heb dat dus express gedaan)*/
-   /* padding-bottom: 30px;*/
   }
 
   #body1 {
@@ -41,7 +40,7 @@
     border-radius: 15px; /* Dit rond de hoeken van mijn element af*/
     background-color: #ed4968; /*Dit is de achtergrondkleur van mijn tekst*/
     padding: 20px; /*Dit zorgt voor de rand om de tekst in het element, hoe hoger de px, hoe meer ruimte eromheen komt*/
-    margin: 20px;
+    margin: 20px; /*Dit zorgt voor de afstand van andere elementen tov dit element.*/
     font-family: 'Courier New', Courier, monospace; /* Dit zorgt voor een andere lettertype*/
     color: cornsilk; /*Dit is de kleur van mijn tekst*/
   }
@@ -52,14 +51,14 @@
   }
 
   #hobby {
-    width: 80%;
+    width: 80%; /*Tekst in mijn home pagina, het laat 80% van mijn pagina bedekken.*/
     font-size: 16px; /* Dit zorgt voor de grootte van mijn tekst*/
   }
 
   .binairstelsel{
   font-size: 15px;
   margin: 20px;
-  display: block;
+  display: block; /* Door display, block in te stellen, kunnen er geen andere elementen naast dit element komen.*/
   }
 
   #binairstelsel2{
@@ -73,7 +72,7 @@
   #tekstkleurmodellen2{
     margin-left: 20px;
     width: 57%;
-    float: right;
+    float: right; /*tekst komt aan de rechter kant van de pagina*/
   }
 
   #resolutieh2{
@@ -91,13 +90,13 @@
     color: #f8f2ec;
     font-size: 39px;
     text-shadow: 1px 2px 4px red, 0 0 35px green, 0 0 5px orange; /*Dit zorgt voor een schaduw om mijn h1 tekst 
-    (dus bijvoorbeeld 'over mij'), ik heb uitgeprobeerd met de kleuren en vond deze combinatie het beste met mijn pagina*/
+    (dus bijvoorbeeld 'over mij'), ik heb uitgeprobeerd met de kleuren en vond deze combinatie het beste bij mijn pagina*/
   }
 
   h2{
-    font-family: Georgia, serif;
+    font-family: Georgia, serif; /*lettertype van mijn tekst*/
     margin-left: 40px;
-    color: #f8f2ec;
+    color: #f8f2ec; /*Kleur van mijn tekst*/
     text-shadow: 1px 2px 4px red, 0 0 35px green, 0 0 5px orange;
   }
 
@@ -106,15 +105,15 @@
   }
  
   #spel2 {
-  float: right; /*Hierdoor komen de 2 spellen die ik elk een eigen id heb gegeven, aan de rechterkant van het scherm terecht.*/
+  float: right; /*Hierdoor komt het spel dat ik een eigen id heb gegeven, aan de rechterkant van het scherm terecht.*/
 }
 
 
 .button {
-  background-color: #ed4968;
+  background-color: #ed4968; /*Hoofdkleur van mijn knop*/
   padding: 20px;
-  text-align: center;
-  list-style-type: none;
+  text-align: center; /*Tekst komt in het midden van de knop*/
+ / list-style-type: none; */
   margin: 15px;
   float: right;
   text-decoration: none; /*Dit zorgt ervoor dat er geen streep komt onder mijn tekst in mijn knop*/
