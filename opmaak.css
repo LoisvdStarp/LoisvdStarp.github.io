@@ -72,7 +72,7 @@
     font-family: Georgia, serif; /* Ik heb een andere lettertype gekozen voor mijn tekst*/
     margin:40px; /*Dit is de ruimte die zit tussen de elementen en de tekst, hoe hoger de px, hoe groter de afstand*/
     color: #f8f2ec;
-    font size: 40px;
+    font-size: 40px;
     text-shadow: 1px 2px 4px red, 0 0 35px green, 0 0 5px orange; /*Dit zorgt voor een schaduw om mijn h1 tekst 
     (dus bijvoorbeeld 'over mij'), ik heb uitgeprobeerd met de kleuren en vond deze combinatie het beste met mijn pagina*/
   }
