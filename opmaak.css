@@ -56,6 +56,15 @@
     font-size: 16px; /* Dit zorgt voor de grootte van mijn tekst*/
   }
 
+  .binairstelsel{
+  font-size: 15px;
+  margin: 20px;
+  display: block;
+  }
+
+  #binairstelsel2{
+    width: 60%;
+  }
   
   #tekstkleurmodellen{
     margin-left: 20px;
@@ -92,11 +101,6 @@
   float: right; /*Hierdoor komen de 2 spellen die ik elk een eigen id heb gegeven, aan de rechterkant van het scherm terecht.*/
 }
 
-.binairstelsel{
-  font-size: 15px;
-  margin: 20px;
-  display: block;
-}
 
 .button {
   background-color: #ed4968;
