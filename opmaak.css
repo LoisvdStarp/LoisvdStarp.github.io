@@ -46,12 +46,12 @@
     color: cornsilk; /*Dit is de kleur van mijn tekst*/
   }
 
-  #p1 {
+  #mijninfo {
     width: 40%; /*Dit laat mijn eerste paragraaf maar 40% van het scherm bedekken*/
     font-size: 16px; /* Dit zorgt voor de grootte van mijn tekst*/
   }
 
-  #p2 {
+  #hobby {
     width: 80%;
     font-size: 16px; /* Dit zorgt voor de grootte van mijn tekst*/
   }
@@ -92,7 +92,7 @@
   float: right; /*Hierdoor komen de 2 spellen die ik elk een eigen id heb gegeven, aan de rechterkant van het scherm terecht.*/
 }
 
-.class1{
+.binairstelsel{
   font-size: 15px;
   margin: 20px;
   display: block;
