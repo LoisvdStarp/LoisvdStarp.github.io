@@ -111,7 +111,7 @@
   padding: 20px;
   text-align: center;
   list-style-type: none;
- /* margin: 20px;*/
+  margin: 15px;
   float: right;
   text-decoration: none; /*Dit zorgt ervoor dat er geen streep komt onder mijn tekst in mijn knop*/
 }
