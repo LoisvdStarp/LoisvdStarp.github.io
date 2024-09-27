@@ -111,7 +111,7 @@
   padding: 20px;
   text-align: center;
   list-style-type: none;
-  margin: 20px;
+ /* margin: 20px;*/
   float: right;
   text-decoration: none;
 }
